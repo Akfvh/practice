@@ -13,14 +13,17 @@
 - 마크다운 문법 익히기
 > TIL 이나 개발 일지 등의 작성을 위해 활용할 `velog` 혹은 `notion`의 수월한 작성을 위한 `markdown` 문법 익히기
 
+
 ### 계기
 >말하는 감자
 
 해당 레포지토리를 만들게 된 가장 큰 계기는 동아리 지원을 위한 github 페이지 개설이다. 아직 개인적으로 진행한 프로젝트가 없기에, 비어있는 github 레포지토리가 부끄러워 `컴퓨터 공학 및 실습1`강의에서 진행했던 프로젝트 일부라도 올려보고자 레포지토리를 만들고자 했으나, 문제에 직면했다.
 
+
 >git push
 
-`컴퓨터 공학 및 실습` 강의에서 간단한 실습으로 `git` 명령어를 통한 init, add, commit, push의 경험이 있기에 해당 절차를 그대로 진행했으나, 전 과 달리 `git push` 후에 바로 github 레포지토리에 반영되지 않고, `master`branch에서 compare&pull request만 생성되었다. 해결을 위한 구글링 중 [블로그](https://waaan.tistory.com/13)를 발견했다.
+`컴퓨터 공학 및 실습1` 강의에서 간단한 실습으로 `git` 명령어를 통한 init, add, commit, push의 경험이 있기에 해당 절차를 그대로 진행했으나, 전 과 달리 `git push` 후에 바로 github 레포지토리에 반영되지 않고, `master`branch에서 compare&pull request만 생성되었다. 해결을 위한 구글링 중 [블로그](https://waaan.tistory.com/13)를 발견했다.
+
 
 >readme.md
 
@@ -31,6 +34,7 @@ github에서 레포지토리 생성 시 체크할 수 있는  `initiailize repo 
 - 위 블로그의 경우엔 에러 발생
 - 내 경우엔 커밋 간 merge를 위한 pull request 발생
 
+
 해결책은 세가지였다  
 1. github 레포지토리 생성 시 해당 옵션 체크 없이 생성
 2. readme가 존재하는 github레포지토리를 이미 생성한 경우
@@ -39,6 +43,8 @@ github에서 레포지토리 생성 시 체크할 수 있는  `initiailize repo 
 	-- git push -f origin master (강제 푸시)
 	-- git pull origin master --> git push  --set-upstream origin master  
 	-> 원격 레포지토리 pull 후 다시 push
+
+
 
 ### 결론 
 >"오히려 좋아"
