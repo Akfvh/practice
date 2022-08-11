@@ -3,17 +3,16 @@
 <br>
 
 - github 접속  
-> github에 더 자주 접속해서 다른 사람들의 레포지토리를 보고  
-> 레포지토리 관리 관습을 익히고 여러 프로젝트를 접한다.  
-<br>
+ github에 더 자주 접속해서 다른 사람들의 레포지토리를 보고  
+ 레포지토리 관리 관습을 익히고 여러 프로젝트를 접한다.<br>
+
 
 - git 명령어 연습
-> github 관리 및 추후 협업을 위한 명령어 연습  
-<br>
+ github 관리 및 추후 협업을 위한 명령어 연습<br>
+
 
 - 마크다운 문법 익히기
-> TIL 이나 개발 일지 등의 작성을 위해 활용할 `velog` 혹은 `notion`의 수월한 작성을 위한 `markdown` 문법 익히기  
-<br><br>
+ TIL 이나 개발 일지 등의 작성을 위해 활용할 `velog` 혹은 `notion`의 수월한 작성을 위한 `markdown` 문법 익히기<br><br>
 
 ### 계기
 >"말하는 감자"
@@ -46,7 +45,7 @@ github에서 레포지토리 생성 시 체크할 수 있는  `initiailize repo 
 		- git pull origin master --> git push  --set-upstream origin master  
 	-> 원격 레포지토리 pull 후 다시 push
 <br>
-d
+
 
 
 ### 결론 
